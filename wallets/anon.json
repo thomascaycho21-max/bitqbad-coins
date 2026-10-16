@@ -1,0 +1,11 @@
+{
+  "user": "anon",
+  "balance": 110,
+  "transactions": [
+    {
+      "amount": 10,
+      "reason": "Ver anuncio",
+      "timestamp": "2026-10-16T01:09:31.923877"
+    }
+  ]
+}
