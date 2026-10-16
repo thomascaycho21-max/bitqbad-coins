@@ -1,6 +1,6 @@
 {
   "user": "anon",
-  "balance": 140,
+  "balance": 150,
   "transactions": [
     {
       "amount": 10,
@@ -21,6 +21,11 @@
       "amount": 10,
       "reason": "Ver anuncio",
       "timestamp": "2026-10-16T01:09:38.581904"
+    },
+    {
+      "amount": 10,
+      "reason": "Ver anuncio",
+      "timestamp": "2026-10-16T01:09:40.613551"
     }
   ]
 }
